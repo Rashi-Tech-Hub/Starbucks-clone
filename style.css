@@ -1,23 +1,23 @@
 
 @font-face {
   font-family: SoDoSans_Bold;
-  src: url('Fonts/sodo-sans/SoDoSans-Bold.ttf') format('truetype');
+  src: url('SoDoSans-Bold.ttf') format('truetype');
 }
 @font-face {
   font-family: SoDoSans_Semibold;
-  src: url('Fonts/sodo-sans/SoDoSans-SemiBold.ttf') format('truetype');
+  src: url('SoDoSans-SemiBold.ttf') format('truetype');
 }
 @font-face{
   font-family: pike;
-  src: url('Fonts/pike-1-maisfontes.bf05/pike-1.ttf') format('truetype');
+  src: url('pike-1-maisfontes.bf05/pike-1.ttf') format('truetype');
 }
 @font-face {
   font-family: SoDoSans_Light;
-  src: url('Fonts/sodo-sans/SoDoSans-Light.ttf') format('truetype');
+  src: url('SoDoSans-Light.ttf') format('truetype');
 }
 @font-face {
   font-family:SoDoSans_Regular ;
-  src: url('Fonts/sodo-sans/SoDoSans-Regular.ttf') format('truetype');
+  src: url('SoDoSans-Regular.ttf') format('truetype');
 }
 body{
   margin:0;
